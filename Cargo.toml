@@ -53,7 +53,7 @@ textwrap = "0.16.1"
 gzp = { version = "0.11.3", default-features = false, features = [
   "deflate_rust",
 ] }
-tar = "0.4.43"
+tar = "0.4.46"
 synchronized-writer = "1.1.11"
 ignore = "0.4.23"
 num_cpus = "1.16.0"
